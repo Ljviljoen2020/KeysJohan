@@ -10,6 +10,8 @@ namespace KeysJohan
     {
         static void Main(string[] args)
         {
+            //new games
+
             List<int> x = new List<int>();
             List<string> symbol = new List<string>();
             string Simber = "0";
