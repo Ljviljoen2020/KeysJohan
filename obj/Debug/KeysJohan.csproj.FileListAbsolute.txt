@@ -1,0 +1,6 @@
+Y:\Users\Doom\source\repos\KeysJohan\KeysJohan\bin\Debug\KeysJohan.exe.config
+Y:\Users\Doom\source\repos\KeysJohan\KeysJohan\bin\Debug\KeysJohan.exe
+Y:\Users\Doom\source\repos\KeysJohan\KeysJohan\bin\Debug\KeysJohan.pdb
+Y:\Users\Doom\source\repos\KeysJohan\KeysJohan\obj\Debug\KeysJohan.csproj.CoreCompileInputs.cache
+Y:\Users\Doom\source\repos\KeysJohan\KeysJohan\obj\Debug\KeysJohan.exe
+Y:\Users\Doom\source\repos\KeysJohan\KeysJohan\obj\Debug\KeysJohan.pdb
